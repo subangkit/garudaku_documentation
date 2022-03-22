@@ -1,22 +1,38 @@
-Welcome to Lumache's documentation!
+Garudaku Documentation
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
+**Garudaku** merupakan platform eSport Official di Indonesia.
+Main website : `Garudaku <https://garudaku.com/>`_
+untuk akses seluruh kegiatan di Garudaku.
+Coach : `Coach Garudaku <https://coach.garudaku.com/>`_
+untuk para coach Garudaku.
 
 Contents
 --------
 
 .. toctree::
+    :maxdepth: 2
+    :numbered:
+    :caption: Core
+    :hidden:
 
-   usage
-   api
+    core/index
+    core/changelog
+
+.. toctree::
+    :maxdepth: 2
+    :numbered:
+    :caption: Academy
+    :hidden:
+
+    academy/index
+    academy/changelog
+
+.. toctree::
+    :maxdepth: 2
+    :numbered:
+    :caption: Store
+    :hidden:
+
+    store/index
+    store/changelog

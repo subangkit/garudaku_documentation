@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Garudaku'
+copyright = '2022, Garudaku'
+author = 'Garudaku Indonesia'
 
-release = '0.1'
-version = '0.1.0'
+release = '20220323.001'
+version = '20220323.001'
 
 # -- General configuration
 
