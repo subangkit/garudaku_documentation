@@ -1,4 +1,0 @@
-Academy Application
-===================
-
-Academy application menampung keseluruhan fitur dari garudaku akademi
