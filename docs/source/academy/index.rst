@@ -9,8 +9,10 @@ Features
 * Coach Schedules
 * Syllabus
 * Course
+
   * File Upload
   * Youtube URL
+
 * Schools
 * Classroom
 * Students
