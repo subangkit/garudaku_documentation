@@ -19,6 +19,11 @@ Perhatian
 Features
 --------
 
-* Product Category
-* Product Catalog
-* Cart - Order
+* Coach
+* Coach Schedules
+* Syllabus
+* Course
+* Files
+* Students
+* Schools
+* Classroom
