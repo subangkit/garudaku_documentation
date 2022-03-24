@@ -4,10 +4,14 @@ Garudaku Documentation
 **Garudaku** merupakan platform eSport Official di Indonesia.
 
 Main website : `Garudaku <https://garudaku.com/>`_
-untuk akses seluruh kegiatan di Garudaku. Lebih lengkap dapat melihat :doc:'core/index'
+untuk akses seluruh kegiatan di Garudaku. 
+
+Dokumentasi :doc:`core/index`
 
 Coach : `Coach Garudaku <https://coach.garudaku.com/>`_
-untuk para coach Garudaku. Lebih lengkap dapat melihat :doc:'academy/index'
+untuk para coach Garudaku. 
+
+Dokumentasi :doc:`academy/index`
 
 Contents
 --------
